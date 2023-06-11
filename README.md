@@ -15,7 +15,7 @@ Implementation of head pose estimation using face images.
 
 ## Model
 
-![model](./results/model.png)
+![model](./results/model_hpe.png)
 
 ## Getting started
 - Evalution
@@ -27,3 +27,7 @@ python test.py
 ```
 python train.py
 ```
+## Demo
+
+![result1](./results/image105.gif)
+![result2](./results/image106.gif)
